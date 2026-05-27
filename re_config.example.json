@@ -1,0 +1,17 @@
+﻿{
+    "active_provider":  "anthropic",
+    "providers":  {
+                      "anthropic":  {
+                                        "api_key":  "",
+                                        "model":  "claude-opus-4-6"
+                                    },
+                      "openai":  {
+                                     "api_key":  "",
+                                     "model":  "gpt-4o"
+                                 },
+                      "ollama":  {
+                                     "base_url":  "http://localhost:11434",
+                                     "model":  "llama3"
+                                 }
+                  }
+}

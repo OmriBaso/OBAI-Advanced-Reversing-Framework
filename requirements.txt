@@ -1,0 +1,12 @@
+# OBAI Reverse Engineering Platform
+# Backend dependencies
+
+Flask>=3.0.0
+Werkzeug>=3.0.0
+setuptools
+requests>=2.31.0
+
+# Core analysis engines
+pyghidra>=3.0.0
+angr>=9.2.0
+pefile>=2023.2.7
